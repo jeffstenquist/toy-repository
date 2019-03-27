@@ -1,3 +1,2 @@
 # toy-repository
-
-this a change to the file.
+This is the readme for the toy project.
